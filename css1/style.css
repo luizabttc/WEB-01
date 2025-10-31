@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(219, 255, 185);
+    background-image: url("bg5.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+        
+}
+
+h1, h2 {
+    color: rgb(205, 176, 238);
+}
+p {
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+}
+
+#subtitulo {
+    color: rgb(159, 210, 252);
+    font-size: 2rem;
+}
+
+.aviso {
+    background: #534747;
+    color: #f7ccd2;
+    padding: 8px;
+    border: 1px solid #f7ccd2;
+    border-radius: 4px;
+}
+
+.caixa3 {
+    width: 400px;
+    min-height: 300px;
+    max-width: 100%;
+    background: rgb(97, 99, 4);
+}
